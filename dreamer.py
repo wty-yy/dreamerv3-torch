@@ -1,3 +1,7 @@
+"""
+python dreamer.py --configs dmc_vision --task dmc_walker_walk --logdir ./logdir/dmc_walker_walk
+python dreamer.py --configs atari100k --task atari_pong --logdir ./logdir/atari_pong
+"""
 import argparse
 import functools
 import os
